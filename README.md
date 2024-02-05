@@ -1,16 +1,55 @@
-### Hi there 👋
+<div id="header" align="center">
 
-<!--
-**daltobello/daltobello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Devin Altobello・Software Engineer
 
-Here are some ideas to get you started:
+<div id="badges"></div>
+	<a href="mailto:dl.altobello@gmail.com">
+	  <img src="https://img.shields.io/badge/Gmail-26444c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+	<a href="https://www.linkedin.com/in/devin-altobello/">
+	   <img src="https://img.shields.io/badge/LinkedIn-256685?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+
+
+
+
+📹 I'm Devin, a video editor turned software engineer now living in Portland, ME.
+
+👨🏻‍💻 Currently working on: VeloFindr - Locate available bikes via New York City bikeshare.
+
+🚴‍♂️ Outside of coding, I enjoy riding bikes and exploring the Maine coastaline in a kayak.
+
+<br>
+
+<div id="footer" align="center">
+
+<b>Tech Stack</b>
+
+<p>
+  
+<img title="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
+<img title="HTML" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
+<img title="CSS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" />
+<img title="TailwindCSS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" />
+<img title="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
+<img title="Redux" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" />
+<img title="TypeScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
+
+<img title="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
+<img title="NPM" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" />
+<img title="Webpack" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" />
+<img title="Mocha" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="Mocha" />
+<img title="Chai" height="32" width="32" src="https://cdn.simpleicons.org/chai" alt="Chai"/>
+<img title="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" />
+<img title="Figma" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" />
+<img title="Adobe Photoshop" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" />
+
+</p>
+
+<b>Upcoming</b>
+<p>
+  <img title="Next.js" width="32px" src="https://imgur.com/oWrXoIa.png" alt="Next.js" />
+</p>
+</div>
