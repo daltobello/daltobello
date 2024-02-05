@@ -15,7 +15,7 @@
 
 
 
-📹 I'm Devin, a video editor turned software engineer now living in Portland, ME.
+📹 I'm Devin, a video editor turned software engineer living in Portland, ME.
 
 👨🏻‍💻 Currently working on: VeloFindr - Locate available bikes via New York City bikeshare.
 
@@ -40,6 +40,10 @@
 <img title="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
 <img title="NPM" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" />
 <img title="Webpack" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" />
+<img title="Postman" height="32" width="32" src="https://cdn.simpleicons.org/postman" alt="Postman"/>
+<img title="Vercel" height="32" width="32" src="https://cdn.simpleicons.org/vercel/gray" alt="Vercel"/>
+<img title="Cypress" height="32" width="32" src="https://cdn.simpleicons.org/cypress" alt="Cypress"/>
+<img title="CircleCI" height="32" width="32" src="https://cdn.simpleicons.org/circleci" alt="CircleCI"/>
 <img title="Mocha" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" alt="Mocha" />
 <img title="Chai" height="32" width="32" src="https://cdn.simpleicons.org/chai" alt="Chai"/>
 <img title="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" />
@@ -50,6 +54,7 @@
 
 <b>Upcoming</b>
 <p>
-  <img title="Next.js" width="32px" src="https://imgur.com/oWrXoIa.png" alt="Next.js" />
+<img title="Next.js" width="32px" src="https://imgur.com/oWrXoIa.png" alt="Next.js" />
+<img title="Python" height="32" width="32" src="https://cdn.simpleicons.org/python" alt="Python"/>
 </p>
 </div>
