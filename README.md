@@ -19,7 +19,7 @@
 
 👨🏻‍💻 Currently working on: VeloFindr - Locate available bikes via New York City bikeshare.
 
-🌲 Outside of coding, I enjoy refinishing mid-century furniture, riding bikes, and exploring the Maine coastaline in a kayak..
+🌲 Outside of coding, I enjoy refinishing mid-century furniture, riding bikes, and exploring the Maine coastaline in a kayak.
 
 <br>
 
