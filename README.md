@@ -15,7 +15,7 @@
 
 
 
-📹 I'm Devin, a video editor turned software engineer living in Portland, ME.
+📹 Hello, I'm Devin, a video editor within legacy and boutique creative agencies turned software engineer. 
 
 👨🏻‍💻 Currently working on: VeloFindr - Locate available bikes via New York City bikeshare.
 
