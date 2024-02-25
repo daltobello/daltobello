@@ -1,9 +1,11 @@
 <div id="header" align="center">
 
 ### Devin Altobello・Software Engineer 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/devin-altobello/)
+<a href="https://www.linkedin.com/in/devin-altobello/">
+<img title="LinkedIn" width="32px" src="https://skillicons.dev/icons?i=linkedin" alt="Gmail Badge"/></a>
+
 <a href="mailto:dl.altobello@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Badge"/></a>
+<img title="Gmail" width="32px" src="https://skillicons.dev/icons?i=gmail" alt="Gmail Badge"/></a>
 
 <br>
 </div>
