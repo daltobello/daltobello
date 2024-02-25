@@ -5,12 +5,8 @@
 <a href="mailto:dl.altobello@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Badge"/></a>
 
-
 <br>
-
-
-
-
+</div>
 
 📹 Hello, I'm Devin. With a background as a video editor at both legacy and boutique creative agencies, I've transitioned into the role of a software engineer. 
 
