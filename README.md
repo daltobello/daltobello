@@ -1,13 +1,10 @@
 <div id="header" align="center">
 
-### Devin Altobello・Software Engineer
+### Devin Altobello・Software Engineer 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/devin-altobello/)
+<a href="mailto:dl.altobello@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Badge"/></a>
 
-<div id="badges"></div>
-	<a href="mailto:dl.altobello@gmail.com">
-	  <img src="https://img.shields.io/badge/Gmail-26444c?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
-	<a href="https://www.linkedin.com/in/devin-altobello/">
-	   <img src="https://img.shields.io/badge/LinkedIn-256685?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-</div>
 
 <br>
 
@@ -15,11 +12,12 @@
 
 
 
-📹 Hello, I'm Devin, a video editor within legacy and boutique creative agencies turned software engineer. 
+📹 Hello, I'm Devin. With a background as a video editor at both legacy and boutique creative agencies, I've transitioned into the role of a software engineer. 
 
 👨🏻‍💻 Currently working on: VeloFindr - Locate available bikes via New York City bikeshare.
 
 🌲 Outside of coding, I enjoy refinishing mid-century furniture, riding bikes, and exploring the Maine coastaline in a kayak.
+
 
 <br>
 
@@ -28,6 +26,7 @@
 <b>Tech Stack</b>
 
 <p>
+
   
 <img title="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
 <img title="HTML" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
