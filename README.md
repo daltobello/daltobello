@@ -10,7 +10,7 @@
 <br>
 </div>
 
-📹 Hello, I'm Devin. With a background as a video editor at both legacy and boutique creative agencies, I've transitioned into the role of a software engineer. 
+📹 Hello, I'm Devin. After a decade as a video editor in creative agencies, I've transitioned into software engineering.
 
 👨🏻‍💻 Currently working on: VeloFindr - Locate available bikes via New York City bikeshare.
 
