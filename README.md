@@ -10,11 +10,9 @@
 <br>
 </div>
 
-📹 Hello, I'm Devin. After a decade as a video editor in creative agencies, I've transitioned into software engineering.
+As a front-end software engineer, I apply the skills I honed in my decade-long career as a video editor: visual design, research, team culture building, detail orientation, and creative problem-solving. My background working in creative agencies, coupled with my experience collaborating with designers and engineers on digital products highlights my passion for creating meaningful user interactions on the web.
 
-👨🏻‍💻 Currently working on: VeloFindr - Locate available bikes via New York City bikeshare.
-
-🌲 Outside of coding, I enjoy refinishing mid-century furniture, riding bikes, and exploring the Maine coastaline in a kayak.
+Outside of coding, I enjoy refinishing mid-century furniture, riding bikes, and exploring the Maine coastaline in a kayak.
 
 
 <br>
