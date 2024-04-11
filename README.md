@@ -10,7 +10,7 @@
 <br>
 </div>
 
-As a front-end software engineer, I apply forward the skills I honed in my decade-long career as a video editor: visual design, research, team culture building, detail orientation, and creative problem-solving. My background working in creative agencies, coupled with my experience collaborating with designers and engineers on digital products highlights my passion for creating meaningful user interactions on the web. I bring a blend of curiosity, critical thinking, and strong interpersonal communication skills to building software within a team environment.
+As a front-end software engineer, I apply forward the skills I honed in my decade-long career as a video editor: visual design, research, team culture building, detail orientation, and creative problem-solving. My background in creative agencies, collaborating closely with designers and engineers on digital products, has fueled my passion for crafting meaningful user interactions on the web. I bring a blend of curiosity, critical thinking, and strong interpersonal communication skills to building software within a team environment.
 
 
 Outside of coding, I enjoy refinishing mid-century furniture, riding bikes, and exploring the Maine coastaline in a kayak.
