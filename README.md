@@ -51,5 +51,6 @@ Outside of coding, I enjoy refinishing mid-century furniture, riding bikes, and 
 <b>Upcoming</b>
 <p>
 <img title="Next.js" width="32px" src="https://imgur.com/oWrXoIa.png" alt="Next.js" />
+<img title="Python" height="32" width="32" src="https://cdn.simpleicons.org/python" alt="Python"/>
 </p>
 </div>
