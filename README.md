@@ -32,6 +32,7 @@ Outside of coding, I enjoy refinishing mid-century furniture, riding bikes, and 
 <img title="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" />
 <img title="Redux" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" />
 <img title="TypeScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
+<img title="Next.js" width="32px" src="https://imgur.com/oWrXoIa.png" alt="Next.js" />
 
 <img title="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
 <img title="NPM" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" />
@@ -50,7 +51,6 @@ Outside of coding, I enjoy refinishing mid-century furniture, riding bikes, and 
 
 <b>Upcoming</b>
 <p>
-<img title="Next.js" width="32px" src="https://imgur.com/oWrXoIa.png" alt="Next.js" />
 <img title="Python" height="32" width="32" src="https://cdn.simpleicons.org/python" alt="Python"/>
 </p>
 </div>
