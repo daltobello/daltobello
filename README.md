@@ -10,7 +10,7 @@
 <br>
 </div>
 
-With software development, I apply forward the skills I honed in my decade-long career as a video editor: visual design, research, team culture building, detail orientation, and creative problem-solving. My background in creative agencies, collaborating closely with designers and engineers on digital products, has fueled my passion for crafting meaningful user interactions online. I bring a blend of curiosity, critical thinking, and strong interpersonal communication skills to building software within a team environment.
+I bring to software development the skills I honed over a decade working in creative production: visual design, research, team culture building, detail orientation, and creative problem-solving. My background in creative agencies, collaborating closely with designers and engineers on digital products, has fueled my passion for crafting meaningful user interactions online. I bring a blend of curiosity, critical thinking, and strong interpersonal communication skills to building software within a team.
 
 
 Outside of coding, I enjoy refinishing mid-century furniture, riding bikes, and exploring the Maine coastaline in a kayak.
